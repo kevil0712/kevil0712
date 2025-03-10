@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kevil0712  
-- 👀 I’m interested in game development, machine learning, and innovative software solutions.  
-- 🌱 I’m currently learning advanced machine learning techniques and real-time 3D object detection.  
-- 💞️ I’m looking to collaborate on exciting game development or machine learning projects.  
+I bring IT expertise and analytical mindset to protect sensitive data, mitigate risks, and implement secure solutions that
+enhance safety, streamline operations, and drive innovation in the industry.
 
 Let me know if you’d like any tweaks!
 <!---
